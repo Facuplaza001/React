@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "On The Road",
+    "author": "Jack Kerouac",
+    "price": 10000,
+    "img": "https://imgs.search.brave.com/PG6VRGVRdd1tat50p4zbkf4eZejQVmLSXnyikv6sZfQ/rs:fit:346:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5z/eGVESlRoNnNFWDZk/VXhhcjJnTkNnSGFL/SiZwaWQ9QXBp",
+    "quanty": 1
+  },
+  {
+    "id": 2,
+    "name": "The Subterraneans",
+    "author": "Jack Kerouac",
+    "price": 20000,
+    "img": "https://imgs.search.brave.com/xjuT1rKjFLtTvqpYLzm9WnQuJhjNsEYA_BjY0dc6DzY/rs:fit:169:225:1/g:ce/aHR0cHM6Ly90c2Uy/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC56N0pWWExu/MlNRS2pnMFZJNU50/S1ZnQUFBQSZwaWQ9/QXBp",
+    "quanty": 1
+  },
+
+  {
+    "id": 3,
+    "name": "Indian Journals",
+    "author": "Allen Ginsberg",
+    "price": 27000,
+    "img": "https://imgs.search.brave.com/4Y3BSHksszs7HykDBvOWmuxuVXXbwtRzzhPZICzex_Q/rs:fit:306:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5j/amNJZS1TOXdqQm9W/Vk4wUGREc05BSGFM/YyZwaWQ9QXBp",
+    "quanty": 1
+  },
+  {
+    "id": 4,
+    "name": "Iron Horse",
+    "author": "Allen Ginsberg",
+    "price": 18000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqk_Wb7bCS2qJD8QzlAck1DnXGwAQ55lSH0LoYov0XrP7stEWX3-isGynia-6wA82H6Q&usqp=CAU",
+    "quanty": 1
+  }
+]
